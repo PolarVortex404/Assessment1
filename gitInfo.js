@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let gitDefinition = `version control system which enables individuals and teams to track changes made to projects`
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = `an online repository where you can 'push' edits you've made to a project`
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+let gitInitDefinition = `the command that 'initializes' or creates the repository`
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,6 +34,7 @@
 */
 
 //CODE HERE
+let gitCloneDefinition = `the URL needed to push the files within local repository (or directory) with your online repository`
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +43,7 @@
 */
 
 //CODE HERE
+let gitStatusDefinition = `this command gives you pertinent details about the files within the directory`
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +55,8 @@
 */
 
 //CODE HERE
+let gitAddDefinition = `this command allows you to push changes you've made locally to the GitHub repo`
+let gitAddCode = `git add -A`
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,6 +68,8 @@
 */
 
 //CODE HERE
+let gitCommitDefinition = `creates a copy of the files you're currently working on`
+let gitCommitCode = `git commit -m "initial commit"`
 
 
 //////////////////PROBLEM 8////////////////////
@@ -73,3 +79,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = `this command uploads the snapshot of your files to the online repo`
